@@ -2,3 +2,5 @@
 
 1. Statystyka i prawdopodobieństwo
 2. ML - Regresja
+
+
