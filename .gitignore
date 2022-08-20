@@ -3,4 +3,7 @@ venv_app
 .idea
 statystyka_prawdopodobienstwo.ipynb
 
+*.pkl
+*.csv
+
 TODO.py
